@@ -2,7 +2,7 @@
 
 A simple static trivia host deck for friends. Open rounds, reveal hints/answers, and score manually.
 
-**Live play:** once published, open the GitHub Pages URL for this repo.
+**Live play:** https://mrinal1702.github.io/quiz-deck/
 
 **Local play:**
 
