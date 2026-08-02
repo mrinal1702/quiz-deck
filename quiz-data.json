@@ -1,0 +1,819 @@
+{
+  "rounds": [
+    {
+      "id": "round-1",
+      "name": "Cards of Common Knowledge",
+      "type": "jeopardy",
+      "pointValues": [
+        10,
+        20,
+        30,
+        40
+      ],
+      "categories": [
+        {
+          "id": "science-goes-mainstream",
+          "name": "Science Goes Mainstream",
+          "questions": [
+            {
+              "points": 10,
+              "prompt": "*This type of infection* shares it's name with a promotional marketing strategy",
+              "hint": "it's what you want your reel to go",
+              "answer": "Viral"
+            },
+            {
+              "points": 20,
+              "prompt": "The lower of *these set of bones* is the only movable bone in the human skull.\nThey also share a name with a 1975 Spielberg thriller.",
+              "hint": "you might not want to go swimming after watching the movie",
+              "answer": "Jaws",
+              "answerImage": "Images for Deck/Jaws_Image.jpg"
+            },
+            {
+              "points": 30,
+              "prompt": "Day traders might invest in trendy stocks with *this physical quantity*, given by the formula (mass) x (velocity).",
+              "hint": "it might \"swing\" in sports",
+              "answer": "Momentum"
+            },
+            {
+              "points": 40,
+              "prompt": "A region named after *this metalloid* with atomic number 14 is where you might want to be if you have a good idea.",
+              "hint": "a tv show has the same name as the region and is about a group of friends working on a good idea",
+              "answer": "Silicon"
+            }
+          ]
+        },
+        {
+          "id": "pipe-down",
+          "name": "Pipe Down!",
+          "questions": [
+            {
+              "points": 10,
+              "prompt": "An Italian plumber famous for travelling through pipes was created by *this company*",
+              "hint": "it's a Japanese gaming company - think Game Boy",
+              "answer": "Nintendo"
+            },
+            {
+              "points": 20,
+              "prompt": "*This iconic movie franchise* depicts the above pipe smoking characters",
+              "promptImages": [
+                "Images for Deck/Gandalf_Smoking_Pipe.jpeg",
+                "Images for Deck/Bilbo-with-Pipe.jpg"
+              ],
+              "hint": "A wizard and a hobbit",
+              "answer": "Lord of the Rings"
+            },
+            {
+              "points": 30,
+              "prompt": "*This anatomical term* for the pipe depicted in the diagram",
+              "promptImages": [
+                "Images for Deck/Food_Pipe_Diagram.jpg"
+              ],
+              "hint": "o e _ _ _ _ _ _ u s",
+              "answer": "oesophagus"
+            },
+            {
+              "points": 40,
+              "prompt": "Started by 21-year old Alfred in 1893 London, today this company is associated with high end tobacco pipes, iconic lighters and luxury cigarettes along with menswear and leather goods.",
+              "hint": "it contains a word for a small mountain in it's name",
+              "answer": "Dunhill"
+            }
+          ]
+        },
+        {
+          "id": "by-royal-decree",
+          "name": "By Royal Decree",
+          "questions": [
+            {
+              "points": 10,
+              "prompt": "Sher Shah Suri introduced *this object* in the 16th century which today contains a symbol combining the Devanagri letter \"Ra\" and the Roman letter \"R\" on it",
+              "hint": "think \"silver object\" used for trade",
+              "answer": "Rupee / Rupiyah coin"
+            },
+            {
+              "points": 20,
+              "prompt": "Julius Caesar introduced *this calendar reform* which also happens to denote when the Olympics will happen",
+              "hint": "think revolution of the earth around the sun",
+              "answer": "leap year"
+            },
+            {
+              "points": 30,
+              "prompt": "It is said that *these accessories* were worn by Persian Cavalry, commanded by Shah Abbas the Great, for better stability. Today they are associated with Jimmy Choo and Christian Louboutin.",
+              "hint": "think footwear",
+              "answer": "High heels"
+            },
+            {
+              "points": 40,
+              "prompt": "Working under the patronage of the Abbasid Caliph al-Ma’mun, scholar Al-Khwarizmi developed a method for performing mathematical operations that gave rise to *this word* — one that may now determine what you see.",
+              "hint": "think what you see on your social media apps on your phone - what determines it?",
+              "answer": "Algorithm"
+            }
+          ]
+        },
+        {
+          "id": "language-of-sport",
+          "name": "Language of Sport",
+          "questions": [
+            {
+              "points": 10,
+              "prompt": "Originating in cricket, to be on *this stance* is a phrase used to denote acting proactively or taking the initiative.",
+              "hint": "think of aggressive batsmen and shots",
+              "answer": "The front foot"
+            },
+            {
+              "points": 20,
+              "prompt": "Earlier used to describe dishonest card players, *this phrase* today means possessing a secret resource or a strategy.",
+              "hint": "think of the highest card in a deck",
+              "answer": "Ace up one's sleeve"
+            },
+            {
+              "points": 30,
+              "prompt": "Originating in boxing, *this phrase* now describes escaping trouble at the very last moment.",
+              "hint": "your teacher might have used it while about to scold a student right before the class ends.",
+              "answer": "being saved by the bell"
+            },
+            {
+              "points": 40,
+              "prompt": "In the late 19th century, horse-racing tracks used a thin thread to judge extremely close finishes, giving rise to *this phrase* meaning “a very narrow result”.",
+              "hint": "think of another word for a thin thread. You might also associate it with electricity",
+              "answer": "Down to the wire"
+            }
+          ]
+        },
+        {
+          "id": "divine-inspiration",
+          "name": "Divine Inspiration",
+          "questions": [
+            {
+              "points": 10,
+              "prompt": "In Hindu mythology, *this divine bird* pledged to become Krishna’s eternal mount; its name is also carried by Indonesia’s state-owned national airline.",
+              "hint": "think \"Eagle\" in Indian languages",
+              "answer": "Garuda"
+            },
+            {
+              "points": 20,
+              "prompt": "Used for centuries by students, travellers and explorers, *this type of book* may take its name either from a Titan punished by Zeus or from a legendary scholar-king of Mauretania.",
+              "hint": "think - what do travelers and explorers need? and a book of that would be called what?",
+              "answer": "Atlas"
+            },
+            {
+              "points": 30,
+              "prompt": "In ancient Greece, Egypt and Italy, *this term* referred to women believed to communicate divine knowledge—most famously Pythia, the priestess at Delphi. It's where a database management and enterprise software company headquartered in Austin, Texas gets it's name from",
+              "hint": "",
+              "hintImage": "Images for Deck/Oracle_Logo.jpeg",
+              "answer": "Oracle"
+            },
+            {
+              "points": 40,
+              "prompt": "Named after the Greek god of dreams—who also lends his name to a major character in 'The Matrix' —*this prescription opioid* is administered to patients experiencing severe pain.",
+              "hint": "The God was named from a word that means \"to change smoothly and gradually from one form to another\"",
+              "answer": "Morphine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "round-2",
+      "name": "The Price Is Right",
+      "type": "price",
+      "questions": [
+        {
+          "id": "price-1",
+          "number": 1,
+          "title": "Star wishes",
+          "prompt": "The price of getting Love Is Blind USA Season 3 star Nancy Rodriguez to create a private video wishing a happy birthday to you or a friend, as of cameo.com on 28/07/2026",
+          "promptImages": [
+            "Images for Deck/The Price Is Right/Nancy_Rodriguez_LIB.jpg"
+          ],
+          "answer": "43.90 Euro"
+        },
+        {
+          "id": "price-2",
+          "number": 2,
+          "title": "Mightier than a sword",
+          "prompt": "The price of this Montblanc Meisterstück Golden Hour Solitaire LeGrand Fountain Pen without tax, as on pensworld.eu on 28/07/2026",
+          "promptImages": [
+            "Images for Deck/The Price Is Right/Montblanc_Pen_1.jpg",
+            "Images for Deck/The Price Is Right/Montblanc_Pen_2.jpg"
+          ],
+          "answer": "1,983 Euro"
+        },
+        {
+          "id": "price-3",
+          "number": 3,
+          "title": "Paying bills",
+          "prompt": "The following Groceries Order from Tesco, Dublin, as of this website:\nhttps://www.tesco.ie/shop/en-IE/landing/groceries\nas of 28/07/2026",
+          "promptList": [
+            "1 bottle of Tesco 250 ml Extra Virgin Olive Oil",
+            "1 bottle of Avonmore Whole Milk 2 Litre",
+            "Magnum Almond Ice Cream Sticks 3x100ml",
+            "3 loose Tesco Ripe and Ready Avocados",
+            "Nicky Soft Touch Toilet Tissue 24 Roll",
+            "Tesco Breaded Chicken Nuggets 72 pack 1kg"
+          ],
+          "answer": "29.86 Euro",
+          "answerBreakdown": [
+            "1 bottle of Tesco 250 ml Extra Virgin Olive Oil (3.25)",
+            "1 bottle of Avonmore Whole Milk 2 Litre (2.69)",
+            "Magnum Almond Ice Cream Sticks 3x100ml (5.15)",
+            "3 loose Tesco Ripe and Ready Avocados (3x1.09)",
+            "Nicky Soft Touch Toilet Tissue 24 Roll (10.00)",
+            "Tesco Breaded Chicken Nuggets 72 pack 1kg (5.50)"
+          ]
+        },
+        {
+          "id": "price-4",
+          "number": 4,
+          "title": "Hold my beer",
+          "prompt": "The price of a pint of Guinness at Oliver St. John Gogarty's as per \"guinndex.ai\" as of 28/07/2026",
+          "promptImages": [
+            "Images for Deck/The Price Is Right/Oliver_St_John_Bar.jpeg"
+          ],
+          "answer": "11 Euro"
+        },
+        {
+          "id": "price-5",
+          "number": 5,
+          "title": "Regular Apparel",
+          "prompt": "Fruit of the Loom SS048 Tshirt with a 55% discount offer, as of wordans.ie",
+          "promptImages": [
+            "Images for Deck/The Price Is Right/Fruit_of_the_loom_tshirt.jpg"
+          ],
+          "answer": "3.40 Euro"
+        },
+        {
+          "id": "price-6",
+          "number": 6,
+          "title": "Man of Steel",
+          "prompt": "Full-Body Medieval Knight Armor with Shield – Premium Hand-Forged Steel Suit with Visored Helmet & Articulated Plate Protection made by Knightorium (price on etsy.com without the discount active as of 28/07/2026)",
+          "promptImages": [
+            "Images for Deck/The Price Is Right/Medieval_Knight_Armor_Suit.jpeg"
+          ],
+          "answer": "145.64 Euro"
+        },
+        {
+          "id": "price-7",
+          "number": 7,
+          "title": "I need a hug",
+          "prompt": "The price of hiring Clodie, a professional, strictly platonic cuddler in Dublin for 1 hour, as per cuddlecomfort.com as of 28/07/2026.",
+          "answer": "80 Euro"
+        },
+        {
+          "id": "price-8",
+          "number": 8,
+          "title": "Please take a seat",
+          "prompt": "The price of this Classic Rubber Wood High Bar Stool with Red Diamond Seat (2 Pack) as of nisbets.ie on 28/07/2026",
+          "promptImages": [
+            "Images for Deck/The Price Is Right/Bar_Stool_Dublin.jpeg"
+          ],
+          "answer": "307.48 Euro"
+        }
+      ]
+    },
+    {
+      "id": "round-3",
+      "name": "Answer or Eliminate",
+      "type": "mcq",
+      "categories": [
+        {
+          "id": "brand-visuals",
+          "name": "Familiar Company",
+          "questions": [
+            {
+              "id": "bv-1",
+              "number": 1,
+              "title": "Give me the money",
+              "prompt": "Identify the logo of the financial services company.",
+              "options": [
+                {
+                  "key": "A",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Bank Logos/MacAfee_Logo.jpeg"
+                },
+                {
+                  "key": "B",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Bank Logos/Adobe_Logo.jpeg"
+                },
+                {
+                  "key": "C",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Bank Logos/Mitsubishi_logo.jpeg"
+                },
+                {
+                  "key": "D",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Bank Logos/Beats_by_Dre_Logo.jpeg"
+                },
+                {
+                  "key": "E",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Bank Logos/HSBC_Logo.jpg"
+                }
+              ],
+              "answer": "E",
+              "answerKey": [
+                "A: MacAfee",
+                "B: Adobe",
+                "C: Mitsubishi",
+                "D: Beats by Dre",
+                "E: HSBC"
+              ]
+            },
+            {
+              "id": "bv-2",
+              "number": 2,
+              "title": "Find the Irishman",
+              "prompt": "Find the mascot of the Irish brand among the following:",
+              "options": [
+                {
+                  "key": "A",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Mascots/KFC_Mascot.jpg"
+                },
+                {
+                  "key": "B",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Mascots/Laughing_Cow_Mascot.jpeg"
+                },
+                {
+                  "key": "C",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Mascots/Pringles_Mascot.jpeg"
+                },
+                {
+                  "key": "D",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Mascots/Cheetos_Mascot.jpg"
+                },
+                {
+                  "key": "E",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/Mascots/Taytos_Mascot.jpeg"
+                }
+              ],
+              "answer": "E",
+              "answerKey": [
+                "A: KFC",
+                "B: Laughing Cow",
+                "C: Pringles",
+                "D: Cheetos",
+                "E: Taytos"
+              ]
+            },
+            {
+              "id": "bv-3",
+              "number": 3,
+              "title": "Beauty or Bluff?",
+              "prompt": "Which of the following slogans is NOT that of a cosmetics, beauty or body and care brand?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Be all you can be"
+                },
+                {
+                  "key": "B",
+                  "text": "Because you're worth it"
+                },
+                {
+                  "key": "C",
+                  "text": "It starts with you"
+                },
+                {
+                  "key": "D",
+                  "text": "Let's beauty together"
+                },
+                {
+                  "key": "E",
+                  "text": "All ages, all races, all genders"
+                }
+              ],
+              "answer": "A",
+              "answerKey": [
+                "A: US Army",
+                "B: L'Oreal",
+                "C: Nivea",
+                "D: Sephora",
+                "E: MAC Cosmetics"
+              ]
+            },
+            {
+              "id": "bv-4",
+              "number": 4,
+              "title": "Is this AI?",
+              "prompt": "Find the only logo not associated with an LLM",
+              "options": [
+                {
+                  "key": "A",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/LLMs/Meta_AI_Logo.jpeg"
+                },
+                {
+                  "key": "B",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/LLMs/Grok_Logo.jpeg"
+                },
+                {
+                  "key": "C",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/LLMs/BitX_Capital_Logo.jpeg?v=2"
+                },
+                {
+                  "key": "D",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/LLMs/Deepseek_Logo.jpeg"
+                },
+                {
+                  "key": "E",
+                  "image": "Images for Deck/Answer or Eliminate/Company Logos/LLMs/Gemini_Logo.jpeg"
+                }
+              ],
+              "answer": "C",
+              "answerKey": [
+                "A: Meta AI",
+                "B: Grok",
+                "C: BitX Capital",
+                "D: Deepseek",
+                "E: Gemini"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "what-came-first",
+          "name": "What Came First?",
+          "questions": [
+            {
+              "id": "wcf-1",
+              "number": 1,
+              "title": "Legacy systems",
+              "prompt": "Which of these events happened first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "MSN Messenger Launches"
+                },
+                {
+                  "key": "B",
+                  "text": "Hotmail Launches"
+                },
+                {
+                  "key": "C",
+                  "text": "Wikipedia Launches"
+                },
+                {
+                  "key": "D",
+                  "text": "Microsoft Bails Apple out by investing $150 million"
+                },
+                {
+                  "key": "E",
+                  "text": "Gmail Launches"
+                }
+              ],
+              "answer": "B",
+              "answerKey": [
+                "A: MSN Messenger launches - July 22, 1999",
+                "B: Hotmail launches - July 4, 1996",
+                "C: Wikipedia launches - Jan 15, 2001",
+                "D: Microsoft Bails Apple out by investing $150 million - 6th August, 1997",
+                "E: Gmail Launches - April 1st, 2004"
+              ]
+            },
+            {
+              "id": "wcf-2",
+              "number": 2,
+              "title": "Back in time",
+              "prompt": "Which of these events came first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Newton publishes Principia Mathematica"
+                },
+                {
+                  "key": "B",
+                  "text": "Shakespeare is born"
+                },
+                {
+                  "key": "C",
+                  "text": "Vasco da Gama reaches India"
+                },
+                {
+                  "key": "D",
+                  "text": "Harvard University is founded"
+                },
+                {
+                  "key": "E",
+                  "text": "Guinness begins brewing in Dublin"
+                }
+              ],
+              "answer": "C",
+              "answerKey": [
+                "A: Newton publishes Principia Mathematica - 1687",
+                "B: Shakespeare is born - 1564",
+                "C: Vasco da Gama reaches India - 1498",
+                "D: Harvard University is founded - 1636",
+                "E: Guinness begins brewing in Dublin - 1759"
+              ]
+            },
+            {
+              "id": "wcf-3",
+              "number": 3,
+              "title": "Latest hits",
+              "prompt": "Which of the following pieces of art was aired or released first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Work, Rihanna featuring Drake"
+                },
+                {
+                  "key": "B",
+                  "text": "Breaking Bad series finale"
+                },
+                {
+                  "key": "C",
+                  "text": "Wolf of Wall Street"
+                },
+                {
+                  "key": "D",
+                  "text": "Taylor Swift's album \"1989\""
+                },
+                {
+                  "key": "E",
+                  "text": "Game of Thrones' iconic \"Battle of the Bastards\" episode (season 6 episode 9)"
+                }
+              ],
+              "answer": "B",
+              "answerKey": [
+                "A: Work, Rihanna featuring Drake - 27th January, 2016",
+                "B: Breaking Bad series finale - 29th September, 2013",
+                "C: Wolf of Wall Street - 25th December, 2013",
+                "D: Taylor Swift's album \"1989\" - 27th October, 2014",
+                "E: Game of Thrones' iconic \"Battle of the Bastards\" episode (season 6 episode 9) - June 19, 2016"
+              ]
+            },
+            {
+              "id": "wcf-4",
+              "number": 4,
+              "title": "COVID Chronicles",
+              "prompt": "Which of the following COVID related events happened first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Novak Djokovic is deported from Australia following a vaccine related dispute"
+                },
+                {
+                  "key": "B",
+                  "text": "The first confirmed Omicron case is reported in Ireland"
+                },
+                {
+                  "key": "C",
+                  "text": "The English Premier League resumes behind closed doors"
+                },
+                {
+                  "key": "D",
+                  "text": "Donald Trump says \"And then I see the disinfectant, where it knocks it out in a minute. One minute. And is there a way we can do something like that, by injection inside or almost a cleaning?\""
+                },
+                {
+                  "key": "E",
+                  "text": "Covaxin receives emergency use authorization in India"
+                }
+              ],
+              "answer": "D",
+              "answerKey": [
+                "A: Novak Djokovic is deported from Australia following a vaccine related dispute - 16th January, 2022",
+                "B: The first confirmed Omicron case is reported in Ireland - December 1st, 2021",
+                "C: The English Premier League resumes behind closed doors - June 17th, 2020",
+                "D: Donald Trump says \"And then I see the disinfectant...\" - April 23rd, 2020",
+                "E: Covaxin receives emergency use authorization in India - January 3rd, 2021"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "more-is-more",
+          "name": "More is more",
+          "questions": [
+            {
+              "id": "mim-1",
+              "number": 1,
+              "title": "Members only",
+              "prompt": "Which of the following geopolitical alliances or blocs has the most member nations?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "NATO"
+                },
+                {
+                  "key": "B",
+                  "text": "African Union"
+                },
+                {
+                  "key": "C",
+                  "text": "European Union (EU)"
+                },
+                {
+                  "key": "D",
+                  "text": "Commonwealth of Nations"
+                },
+                {
+                  "key": "E",
+                  "text": "Council of Europe"
+                }
+              ],
+              "answer": "D",
+              "answerKey": [
+                "A: NATO - 32",
+                "B: African Union - 55",
+                "C: European Union (EU) - 27",
+                "D: Commonwealth of Nations - 56",
+                "E: Council of Europe - 46"
+              ]
+            },
+            {
+              "id": "mim-2",
+              "number": 2,
+              "title": "The Rating Game",
+              "prompt": "Which of the following movies has the highest IMDB Rating? (as of 30/07/2026)",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Andhadhun (2018)"
+                },
+                {
+                  "key": "B",
+                  "text": "The Da Vinci Code (2006)"
+                },
+                {
+                  "key": "C",
+                  "text": "Parasite (2019)"
+                },
+                {
+                  "key": "D",
+                  "text": "Citizen Kane (1941)"
+                },
+                {
+                  "key": "E",
+                  "text": "Fight Club (1999)"
+                }
+              ],
+              "answer": "E",
+              "answerKey": [
+                "A: Andhadhun (2018) - 8.2",
+                "B: The Da Vinci Code (2006) - 6.7",
+                "C: Parasite (2019) - 8.5",
+                "D: Citizen Kane (1941) - 8.2",
+                "E: Fight Club (1999) - 8.8"
+              ]
+            },
+            {
+              "id": "mim-3",
+              "number": 3,
+              "title": "Wild Wild Weights",
+              "prompt": "Which class of vertebrates from the following has the greatest total biomass on Earth, as per a 2018 Biomass Census published in PNAS?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Insects"
+                },
+                {
+                  "key": "B",
+                  "text": "Reptiles"
+                },
+                {
+                  "key": "C",
+                  "text": "Mammals"
+                },
+                {
+                  "key": "D",
+                  "text": "Fish"
+                },
+                {
+                  "key": "E",
+                  "text": "Birds"
+                }
+              ],
+              "answer": "A",
+              "answerKey": [
+                "A: Insects - 1.0 Gigatons",
+                "B: Reptiles - Less than 0.001 Gigatons",
+                "C: Mammals - 0.17 Gigatons",
+                "D: Fish - 0.7 Gigatons",
+                "E: Birds - 0.007 Gigatons"
+              ]
+            },
+            {
+              "id": "mim-4",
+              "number": 4,
+              "title": "Northern Heights",
+              "prompt": "Based on their latitude coordinates, which of the following capitals is the northernmost?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Vienna"
+                },
+                {
+                  "key": "B",
+                  "text": "Kabul"
+                },
+                {
+                  "key": "C",
+                  "text": "Belgrade"
+                },
+                {
+                  "key": "D",
+                  "text": "Ottawa"
+                },
+                {
+                  "key": "E",
+                  "text": "Beijing"
+                }
+              ],
+              "answer": "A",
+              "answerKey": [
+                "A: Vienna - 48.2",
+                "B: Kabul - 33.72",
+                "C: Belgrade - 44.82",
+                "D: Ottawa - 45.42",
+                "E: Beijing - 39.9"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "round-4",
+      "name": "Find My Ex",
+      "type": "ex",
+      "questions": [
+        {
+          "id": "fme-1",
+          "number": 1,
+          "clues": [
+            "The first recorded use of the word X in English history was by the English philosopher Henry Moore, where he wrote about \"The head and X of the whole church\". The root word of X is a latin word which means \"to flow\", the same as another very common illness.",
+            "One early example of the power of Xs involved the English potter Josiah Wedgwood, who created a tea set for Queen Charlotte and then promoted his goods through their association with royal approval.",
+            "The modern meaning of X began to take shape in the 2000s through figures such as Tila Tequila, known for modelling, and Michelle Phan, known for makeup tutorials.",
+            "Today, as per Hubspot data, roughly 86% of brands use Xs for marketing.",
+            "Mr. Beast, Clavicular and IShowSpeed are examples of Xs active today."
+          ],
+          "answer": "X = \"Influencer\""
+        },
+        {
+          "id": "fme-2",
+          "number": 2,
+          "clues": [
+            {
+              "text": "X first appeared on television on November 22, 1990."
+            },
+            {
+              "text": "The inspiration for X came from characters Michael Myers (Halloween, 1978) and Jason Voorhees (Friday The 13th franchise)"
+            },
+            {
+              "text": "Here's a photo of Mark Calaway, who played X",
+              "image": "Images for Deck/Find my Ex/Mark_Calaway.jpg",
+              "imageAlign": "right"
+            },
+            {
+              "text": "X has athletically performed 2502 times as of this quiz, and still continues to appear on television from time to time."
+            },
+            {
+              "text": "You don't want to be at the receiving end of a choke slam or a tombstone piledriver from X"
+            }
+          ],
+          "answer": "X = \"The Undertaker\"",
+          "answerImage": "Images for Deck/Find my Ex/Undertaker.jpeg"
+        },
+        {
+          "id": "fme-3",
+          "number": 3,
+          "clues": [
+            {
+              "text": "X was created by John de Mol Jr in Netherlands, 1999. An early alternative proposed name for \"X\" was \"The Golden Cage\""
+            },
+            {
+              "text": "The inspiration for X came from a failed Arizona experiment called as Biosphere 2, where 4 men and 4 women were isolated away from the world and resulted in struggling for food and oxygen."
+            },
+            {
+              "text": "Since its debut, *X* has expanded to more than 60 countries and regions, with over 600 editions produced worldwide."
+            },
+            {
+              "text": "The title \"X\" is a reference to a dystopian novel written by George Orwell."
+            },
+            {
+              "text": "Shilpa Shetty, Rakhi Sawant and Ivana Trump are some of the famous celebrities that have gone on X or an adaptation of X."
+            }
+          ],
+          "answer": "X = \"Big Brother\""
+        },
+        {
+          "id": "fme-4",
+          "number": 4,
+          "clues": [
+            {
+              "text": "Contrary to what you might expect, the creation of X is widely credit to Ali Ahmed Aslam who lived and worked in Glasgow, Scotland in 1970. He claims he was trying to fix a customer complaint and created X in the process."
+            },
+            {
+              "text": "Historians do argue that the inspiration of X might have come from a 1961 book written by Mrs. Balbir Singh, a renown expert born in Punjab in 1912."
+            },
+            {
+              "text": "In 2001, British Foreign Secretary Robin Cook referred to X as \"true British national\" to symbolize the multiculturalism in Britain."
+            },
+            {
+              "text": "X is one of two national dishes of Britain, sharing its status with \"fish and chips\"."
+            },
+            {
+              "text": "X is a red tomato-based curry dish."
+            }
+          ],
+          "answer": "X = \"Chicken tikka masala\""
+        }
+      ]
+    }
+  ]
+}
